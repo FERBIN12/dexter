@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ferbin/dexter_ws/build/dexter_des",
+        "/home/ferbin/dexter_ws/install/dexter_des/lib/python3.10/site-packages",
+        "/home/ferbin/buck_ws/build/my_point",
+        "/home/ferbin/buck_ws/install/my_point/lib/python3.10/site-packages",
+        "/home/ferbin/buck_ws/build/model_py",
+        "/home/ferbin/buck_ws/install/model_py/lib/python3.10/site-packages",
+        "/home/ferbin/mazix_ws/build/mazix_description",
+        "/home/ferbin/mazix_ws/install/mazix_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ferbin/dexter_ws/build/dexter_des",
+        "/home/ferbin/dexter_ws/install/dexter_des/lib/python3.10/site-packages",
+        "/home/ferbin/buck_ws/build/my_point",
+        "/home/ferbin/buck_ws/install/my_point/lib/python3.10/site-packages",
+        "/home/ferbin/buck_ws/build/model_py",
+        "/home/ferbin/buck_ws/install/model_py/lib/python3.10/site-packages",
+        "/home/ferbin/mazix_ws/build/mazix_description",
+        "/home/ferbin/mazix_ws/install/mazix_description/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
