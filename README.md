@@ -10,7 +10,7 @@ OPENCV
 
 PROJECT DESCRIPTION:
 
-Linefollower urdf is equipped with camera plugin which is used to get the image feed which is then bridged with openCV .Works by getting the mid point of line and robot, then the error between both values are used to send corresponding command velocity 
+Linefollower urdf is equipped with camera plugin which is used to get the image feed which is then bridged with openCV .Works by getting the mid point of line and robot, then the error between both values are used to send corresponding command velocity. 
   
 Packages needed:
         
